@@ -20,7 +20,7 @@ export default defineConfig({
     historyApiFallback: true,
   },
   // Add base URL configuration
-  base: '/Chart/',
+  base: '/',
   build: {
     outDir: 'dist',
     sourcemap: true,
