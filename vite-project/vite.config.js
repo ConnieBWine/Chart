@@ -20,7 +20,7 @@ export default defineConfig({
     historyApiFallback: true,
   },
   // Add base URL configuration
-  base: '/group5-data-visual',
+  base: '/group5',
   build: {
     outDir: 'dist',
     sourcemap: true,
